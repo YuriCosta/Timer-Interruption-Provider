@@ -12,3 +12,5 @@ Use like this:
                61.275390625 < frequency  < 8000000 if you are using timer0 or 2 [set_timer( frequency, 1//2 );]
 		
 Check out the exemple to see how implement this class.
+
+Tested with sucess in Arduino uno rev3
